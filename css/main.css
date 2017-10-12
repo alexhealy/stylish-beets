@@ -16,7 +16,7 @@ h2 {
 }
 
 nav {
-  font-family:  "PT Sans", sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-size: 1.125rem;
   font-weight: bold;
 }
@@ -24,11 +24,7 @@ nav {
 figcaption {
   font-style: italic;
   text-align: center;
-  font-size: 0.8rem;
-}
-
-dt {
-  font-weight: norml;
+  font-size: 8rem;
 }
 
 figure {
@@ -37,7 +33,7 @@ figure {
 }
 
 img {
-  width: 100%
+  width: 100%;
 }
 
 dt {
@@ -77,9 +73,9 @@ p:nth-last-of-type(1+2) {
 }
 
 .chris {
-  font-size: 0.8rem;
+  font-size: 8rem;
 }
 
 .tags li {
-  font-size: 0.8rem;
+  font-size: 8rem;
 }
