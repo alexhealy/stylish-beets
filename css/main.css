@@ -4,6 +4,10 @@ html {
   line-height: 1.5;
 }
 
+nav :hover {
+  color: #3f1622;
+}
+
 h1 {
   color: #3f1622;
   font-family: "PT Sans", sans-serif;
@@ -19,12 +23,17 @@ nav {
   font-family: "PT Sans", sans-serif;
   font-size: 1.125rem;
   font-weight: bold;
+  color: #8f2440;
+}
+
+nav :hover {
+  color: #3f1622
 }
 
 figcaption {
   font-style: italic;
   text-align: center;
-  font-size: 8rem;
+  font-size: .8rem;
 }
 
 figure {
@@ -73,9 +82,9 @@ p:nth-last-of-type(1+2) {
 }
 
 .chris {
-  font-size: 8rem;
+  font-size: .8rem;
 }
 
 .tags li {
-  font-size: 8rem;
+  font-size: .8rem;
 }
